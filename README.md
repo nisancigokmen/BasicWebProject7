@@ -1,7 +1,7 @@
 # BasicWebProject7
 
 <h2><i>  ***** Calculator Front İnterface *****  </i></h2> <br>
-<img src="https://media2.giphy.com/media/fRhSHzQ4NXOdrHIZJd/giphy.gif?cid=ecf05e47fdix98qo4wtmimknhced068t8dkzkw1l8h4jimui&rid=giphy.gif&ct=g" width="620px" height="310px"> 
+<img src="https://media1.giphy.com/media/3o7btObApReFdPILwk/giphy.gif?cid=ecf05e476romfdjzoq2b4k9xnp2euh93l9vth8u51j9kzr3u&rid=giphy.gif&ct=g"> 
 <hr>
 <h2>Please let us know your questions and comments... </h2>
 <hr>

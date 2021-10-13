@@ -1,0 +1,208 @@
+/*  the style before hover button*/
+
+#number1 {
+    background-color: #010001;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    color: #f2f2f2;
+    border: 2px solid #02fd04;
+    border-radius: 0.4em;
+}
+
+#number2 {
+    background-color: #010001;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    color: #f2f2f2;
+    border: 2px solid #02fd04;
+    border-radius: 0.4em;
+}
+
+#number3 {
+    background-color: #010001;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    color: #f2f2f2;
+    border: 2px solid #02fd04;
+    border-radius: 0.4em;
+}
+
+#number4 {
+    background-color: #010001;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    color: #f2f2f2;
+    border: 2px solid #02fd04;
+    border-radius: 0.4em;
+}
+
+#number5 {
+    background-color: #010001;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    color: #f2f2f2;
+    border: 2px solid #02fd04;
+    border-radius: 0.4em;
+}
+
+#number6 {
+    background-color: #010001;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    color: #f2f2f2;
+    border: 2px solid #02fd04;
+    border-radius: 0.4em;
+}
+
+#number7 {
+    background-color: #010001;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    color: #f2f2f2;
+    border: 2px solid #02fd04;
+    border-radius: 0.4em;
+}
+
+#number8 {
+    background-color: #010001;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    color: #f2f2f2;
+    border: 2px solid #02fd04;
+    border-radius: 0.4em;
+}
+
+#number9 {
+    background-color: #010001;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    color: #f2f2f2;
+    border: 2px solid #02fd04;
+    border-radius: 0.4em;
+}
+
+#number0 {
+    background-color: #010001;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    color: #f2f2f2;
+    border: 2px solid #02fd04;
+    border-radius: 0.4em;
+}
+
+#tagPoint {
+    background-color: #010001;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    color: #f2f2f2;
+    border: 2px solid #02fd04;
+    border-radius: 0.4em;
+}
+
+#tagEquals {
+    background-color: #010001;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-bottom: 1em;
+    color: #f2f2f2;
+    border: 2px solid #02fd04;
+    border-radius: 0.4em;
+}
+
+
+/* background-color in the hover*/
+
+#number1:hover {
+    background-color: #f2f2f2;
+    color: #010001;
+    opacity: 0.8;
+}
+
+#number2:hover {
+    background-color: #f2f2f2;
+    color: #010001;
+    opacity: 0.8;
+}
+
+#number3:hover {
+    background-color: #f2f2f2;
+    color: #010001;
+    opacity: 0.8;
+}
+
+#number4:hover {
+    background-color: #f2f2f2;
+    color: #010001;
+    opacity: 0.8;
+}
+
+#number5:hover {
+    background-color: #f2f2f2;
+    color: #010001;
+    opacity: 0.8;
+}
+
+#number6:hover {
+    background-color: #f2f2f2;
+    color: #010001;
+    opacity: 0.8;
+}
+
+#number7:hover {
+    background-color: #f2f2f2;
+    color: #010001;
+    opacity: 0.8;
+}
+
+#number8:hover {
+    background-color: #f2f2f2;
+    color: #010001;
+    opacity: 0.8;
+}
+
+#number9:hover {
+    background-color: #f2f2f2;
+    color: #010001;
+    opacity: 0.8;
+}
+
+#number0:hover {
+    background-color: #f2f2f2;
+    color: #010001;
+    opacity: 0.8;
+}
+
+#tagPoint:hover {
+    background-color: #f2f2f2;
+    color: #010001;
+    opacity: 0.8;
+}
+
+#tagEquals:hover {
+    background-color: #f2f2f2;
+    color: #010001;
+    opacity: 0.8;
+}

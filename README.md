@@ -1,4 +1,5 @@
 # BasicWebProject7
+![Screenshot_2021-10-14 CALCULATOR FRONT İNTERFACE](https://user-images.githubusercontent.com/91744618/137242579-9ffd15cc-65ae-43b4-8b5b-a394522a4788.png)
 
 <h2><i>  ***** Calculator Front İnterface *****  </i></h2> <br>
 <img src="https://media1.giphy.com/media/3o7btObApReFdPILwk/giphy.gif?cid=ecf05e476romfdjzoq2b4k9xnp2euh93l9vth8u51j9kzr3u&rid=giphy.gif&ct=g"> 

@@ -1,0 +1,29 @@
+#content-tag:hover {
+    background-color: #000000;
+    color: #f2f2f2;
+}
+
+#content {
+    padding-top: 120px;
+    padding-bottom: 3em;
+}
+
+#content-icon {
+    display: flex;
+}
+
+#icon-facebook {
+    padding-left: 20px;
+}
+
+#icon-twiter {
+    padding-left: 20px;
+}
+
+#icon-instagram {
+    padding-left: 20px;
+}
+
+#icon-github {
+    padding-left: 20px;
+}

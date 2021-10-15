@@ -1,0 +1,80 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    height: 1200px;
+}
+
+#message {
+    background-color: #5c5c69f3;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    background-color: #f2f2f2;
+    color: #000000;
+    width: 210px;
+}
+
+h1:hover {
+    background-color: #000000;
+    color: #f2f2f2;
+    width: 260px;
+}
+
+#logo-tag {
+    display: flex;
+    background-color: #5c5c69f3;
+    width: 100%;
+    position: fixed;
+    opacity: 0.9;
+}
+
+#logoimg {
+    border-radius: 3em;
+    padding-left: 1em;
+}
+
+#logo-title {
+    padding-left: 1em;
+    padding-top: 0.35em;
+    font-size: 24px;
+}
+
+#list-style {
+    padding-top: 1em;
+    justify-content: space-between;
+    margin-left: 1000px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li {
+    list-style: none;
+    padding-left: 1.5em;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f2f2f2;
+}
+
+#img-tag,
+.img-1 {
+    margin-left: 32px;
+}
+
+#img-tag,
+.img-2 {
+    margin-left: 32px;
+}
+
+#img-tag,
+.img-3 {
+    margin-left: 32px;
+}

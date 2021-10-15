@@ -1,0 +1,13 @@
+#about {
+    padding-top: 120px;
+    padding-bottom: 210px;
+}
+
+#about-img {
+    padding-top: 120px;
+}
+
+#about-tag:hover {
+    background-color: #000000;
+    color: #f2f2f2;
+}

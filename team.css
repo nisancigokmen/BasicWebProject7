@@ -1,0 +1,25 @@
+#team {
+    padding-top: 120px;
+    padding-bottom: 410px;
+}
+
+#list-team {
+    padding-right: 210px;
+    padding-left: 210px;
+}
+
+#img-tag {
+    display: flex;
+}
+
+.img-1 {
+    padding-left: 120px;
+}
+
+.img-2 {
+    padding-left: 320px;
+}
+
+.img-3 {
+    padding-left: 420px;
+}

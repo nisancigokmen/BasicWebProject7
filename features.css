@@ -1,0 +1,9 @@
+#features {
+    padding-top: 120px;
+    padding-bottom: 3em;
+}
+
+#features-tag:hover {
+    background-color: #000000;
+    color: #f2f2f2;
+}

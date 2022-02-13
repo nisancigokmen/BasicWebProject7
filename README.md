@@ -2,7 +2,6 @@
 
 ![project-7](https://user-images.githubusercontent.com/91744618/137529025-b59a04a7-8906-42a5-8f41-d26fa67d10c5.png)
 
-
 <div id="contact">
  
 <h2> Connect with me: </h2>
@@ -26,8 +25,6 @@
  
 <br>
 
-  
-
 </div><br>
 &copy; Gökmen Nişancı / Web Developer. <br><br>
 
@@ -36,4 +33,3 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
   
-

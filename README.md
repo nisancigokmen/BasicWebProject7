@@ -1,6 +1,5 @@
 # BasicWebProject7
 
-
 ![project-7](https://user-images.githubusercontent.com/91744618/137529025-b59a04a7-8906-42a5-8f41-d26fa67d10c5.png)
 
 <div id="contact">
